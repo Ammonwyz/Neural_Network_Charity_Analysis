@@ -47,4 +47,4 @@ I did incease layers and changed the number of input features.
 
 ## Summary: 
 
-After using the neuron network and optimization, we did not meet expectations and did not get more than 75% accuracy. So we could choose to use Random Forest classifiers due to their sufficient number of estimators and tree depth. Also we can get a faster performance than neural networks and could have avoided the data from being overfitted.
+      After using the neuron network and optimization, we did not meet expectations and did not get more than 75% accuracy. So we could choose to use Random Forest classifiers due to their sufficient number of estimators and tree depth. Also we can get a faster performance than neural networks and could have avoided the data from being overfitted.
